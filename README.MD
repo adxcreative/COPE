@@ -15,7 +15,7 @@ __cRoss-dOmain Product rEcognition dataset (COPE)___ covers a wide range of prod
 __Statistics__
 
 <p align="center">
-  <img width="800" height="500" src="./_images/statistics.jpg">
+  <img width="800" height="300" src="./_images/statistics.jpg">
 </p>
   
 The ROPE dataset comprises 3,056,624 product pages, 5,867,526 short videos, and 3,495,097 live streams associated with 189,958 products. We divided the ROPE dataset into train and test sets. 
