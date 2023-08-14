@@ -1,15 +1,15 @@
 __cRoss-dOmain Product rEcognition dataset (COPE)___ covers a wide range of product categories and contains over 180,000 products, corresponding to millions of short videos and live streams. It is the first dataset to cover product pages, short videos, and live streams simultaneously, providing the basis for establishing a unified product representation across different media domains.
 
 <p align="center">
-  <img width="800" height="500" src="./_images/product_pages.pdf">
+  <img width="800" height="500" src="./_images/product_pages.jpg">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="./_images/short_videos.pdf">
+  <img width="800" height="500" src="./_images/short_videos.jpg">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="./_images/live_clips.pdf">
+  <img width="800" height="500" src="./_images/live_clips.jpg">
 </p>
 
 __Statistics__
