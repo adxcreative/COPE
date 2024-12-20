@@ -124,10 +124,11 @@ We have released the code here.
 ## Citation
 
 ```bibtex
-@article{bai2023crossdomain,
+@inproceedings{bai2023cross,
   title={Cross-Domain Product Representation Learning for Rich-Content E-Commerce},
-  author={Xuehan Bai and Yan Li and Yanhua Cheng and Wenjie Yang and Quan Chen and Han Li},
-  journal={arXiv preprint arXiv:2308.05550},
+  author={Bai, Xuehan and Li, Yan and Cheng, Yanhua and Yang, Wenjie and Chen, Quan and Li, Han},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5697--5706},
   year={2023}
 }
 ```
